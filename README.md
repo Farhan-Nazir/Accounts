@@ -7,3 +7,7 @@ It is a project based web app. It shows a list of some accounts with detail box.
  Printable data table.
  Download csv file of data.
  Search by value.
+
+ ### Demo
+ http://farhan-app.herokuapp.com/  some time it need to runs twice to start the server.
+ 

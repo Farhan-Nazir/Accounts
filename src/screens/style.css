@@ -1,0 +1,30 @@
+body {
+    background: #BE93C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #7BC6CC, #BE93C5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #7BC6CC, #BE93C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.container {
+    display: grid;
+grid-gap: 10px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+   }
+
+ h1 {
+     color: azure;
+ }  
+
+
+
+.data-table {
+    grid-column: 1 /span 2;
+    margin-left: 2em;
+    font-size: 25px;
+}
+.detail-box {
+    grid-column: 3;
+    grid-row: 1 / span 2;
+    margin-top: 6em;
+    margin-right: 3em;
+}

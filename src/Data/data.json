@@ -1,0 +1,163 @@
+{
+   "data":[ {
+        "id": 1,
+        "accountNo":"3030032525",
+        "accountName":"Thomas Persson",
+        "type":"Savings",
+        "currency":"SEK",
+        "balance":"2,58525.00 kr",
+        "status":"Active"
+        
+    },
+    {
+        "id": 2,
+        "accountNo":"525010032525",
+        "accountName":"Erik Fors",
+        "type":"Checking",
+        "currency":"SEK",
+        "balance":"8,58525.00 kr",
+        "status":"Active"
+        
+    },
+    {
+        "id": 3,
+        "accountNo":"181802521",
+        "accountName":"Anna Gram",
+        "type":"Savings",
+        "currency":"SEK",
+        "balance":"85,000.00 kr",
+        "status":"Checking"
+        
+    },
+    {
+        "id": 4,
+        "accountNo":"3582546665",
+        "accountName":"Reham Karimi",
+        "type":"Checking",
+        "currency":"SEK",
+        "balance":"140,452.00 kr",
+        "status":"Active"
+        
+    },
+    {
+        "id": 5,
+        "accountNo":"3030032525",
+        "accountName":"Thomas Persson",
+        "type":"Savings",
+        "currency":"SEK",
+        "balance":"2,58525.00 kr",
+        "status":"Active"
+        
+    },
+    {
+        "id": 6,
+        "accountNo":"525010032525",
+        "accountName":"Erik Fors",
+        "type":"Checking",
+        "currency":"SEK",
+        "balance":"8,58525.00 kr",
+        "status":"Blocked"
+        
+    },
+    {
+        "id": 7,
+        "accountNo":"181802521",
+        "accountName":"Anna Gram",
+        "type":"Savings",
+        "currency":"SEK",
+        "balance":"85,000.00 kr",
+        "status":"Closed"
+        
+    },
+    {
+        "id": 8,
+        "accountNo":"3582546665",
+        "accountName":"Reham Karimi",
+        "type":"Checking",
+        "currency":"SEK",
+        "balance":"140,452.00 kr",
+        "status":"Active"
+        
+    },
+    {
+        "id": 9,
+        "accountNo":"456709876",
+        "accountName":"Christoffer",
+        "type":"Savings",
+        "currency":"EUR",
+        "balance":" € 2,58525.00",
+        "status":"Active"
+        
+    },
+    {
+        "id": 10,
+        "accountNo":"556678787",
+        "accountName":"Karin Magne",
+        "type":"Checking",
+        "currency":"SEK",
+        "balance":"8,58525.00 kr",
+        "status":"Active"
+        
+    },
+    {
+        "id": 11,
+        "accountNo":"181802521",
+        "accountName":"Anna Gram",
+        "type":"Savings",
+        "currency":"SEK",
+        "balance":"85,000.00 kr",
+        "status":"Checking"
+        
+    },
+    {
+        "id": 12,
+        "accountNo":"3582546665",
+        "accountName":"Reham Karimi",
+        "type":"Checking",
+        "currency":"SEK",
+        "balance":"140,452.00 kr",
+        "status":"Active"
+        
+    },
+    {
+        "id": 13,
+        "accountNo":"3030032525",
+        "accountName":"Thomas Persson",
+        "type":"Savings",
+        "currency":"SEK",
+        "balance":"2,58525.00 kr",
+        "status":"Active"
+        
+    },
+    {
+        "id": 14,
+        "accountNo":"525010032525",
+        "accountName":"Erik Fors",
+        "type":"Checking",
+        "currency":"SEK",
+        "balance":"8,58525.00 kr",
+        "status":"Blocked"
+        
+    },
+    {
+        "id": 15,
+        "accountNo":"181802521",
+        "accountName":"Anna Gram",
+        "type":"Savings",
+        "currency":"SEK",
+        "balance":"85,000.00 kr",
+        "status":"Closed"
+        
+    },
+    {
+        "id": 16,
+        "accountNo":"3582546665",
+        "accountName":"Reham Karimi",
+        "type":"Checking",
+        "currency":"SEK",
+        "balance":"140,452.00 kr",
+        "status":"Active"
+        
+    }
+]
+}
